@@ -1,5 +1,6 @@
 Loan Approval Prediction 🏦 | Machine Learning Project
 
+
 📌 Overview
 
 This project was developed as part of my internship at Elovvo
