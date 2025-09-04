@@ -37,14 +37,6 @@ Imbalanced-learn (SMOTE)
 
 Matplotlib, Seaborn
 
-📊 Results
-
-Logistic Regression → ~79% accuracy
-
-Decision Tree → ~97% accuracy (risk of overfitting with CIBIL score)
-
-Random Forest → ~97% accuracy (better generalization)
-
 💡 Learning Outcomes
 
 This project helped me understand:
