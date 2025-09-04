@@ -1,4 +1,5 @@
 Loan Approval Prediction 🏦 | Machine Learning Project
+
 📌 Overview
 
 This project was developed as part of my internship at Elovvo
@@ -25,7 +26,7 @@ Analyzed feature dependency (dropping CIBIL score) to test robustness and avoid 
 
 ⚙️ Tech Stack
 
-Python 🐍
+Python 
 
 Pandas, NumPy
 
